@@ -1,0 +1,86 @@
+[
+    {
+        "name": "Pepper bell Bacterial spot",
+        "effected": "true",
+        "solution": "Seed treatment with hot water, soaking seeds for 30 minutes in water pre-heated to 125 F/51 C, is effective in reducing bacterial populations on the surface and inside the seeds. However, seed germination may be affected by heat treatment if not done accurately, while the risk is relatively low with bleach treatment.",
+        "symptom": "raised, scab-like spots on fruit"
+    },
+    {
+        "name": "Pepper bell healthy",
+        "effected": "false"
+    },
+    {
+        "name": "Potato Early blight",
+        "effected": "true",
+        "solution": "Early blight can be minimized by maintaining optimum growing conditions, including proper fertilization, irrigation, and management of other pests. Grow later maturing, longer season varieties. Fungicide application is justified only when the disease is initiated early enough to cause economic loss.",
+        "symptom": "develop circular to angular dark brown lesions 0.12 to 0.16 inch (3–4 mm) in diameter"
+    },
+    {
+        "name": "Potato Late blight",
+        "effected": "true",
+        "solution": "Late blight is controlled by eliminating cull piles and volunteer potatoes, using proper harvesting and storage practices, and applying fungicides when necessary. Air drainage to facilitate the drying of foliage each day is important.",
+        "symptom": "small, light to dark green, circular to irregular-shaped water-soaked spots"
+    },
+    {
+        "name": "Potato healthy",
+        "effected": "false"
+    },
+    {
+        "name": "Tomato Bacterial spot",
+        "effected": "true",
+        "solution": "Using pathogen-free seed and disease-free transplants, when possible, is the best way to avoid bacterial spot on tomato. Avoiding sprinkler irrigation and cull piles near greenhouse or field operations, and rotating with a nonhost crop also helps control the disease.",
+        "symptom": "On fruit, the first symptoms are small, dark brown-to-black, raised spots. The lesions also may have a white halo, similar to the bird's-eye spotting seen with bacterial canker. As the fruit ages, the white halos disappear. In contrast, bacterial canker fruit lesions retain their white halo."
+    },
+    {
+        "name": "Tomato Early blight",
+        "effected": "true",
+        "solution": "Cover the soil under the plants with mulch, such as fabric, straw, plastic mulch, or dried leaves. Water at the base of each plant, using drip irrigation, a soaker hose, or careful hand watering.\nIncrease airflow by staking or trellising, removing weeds, and spacing plants adequately apart. Pruning the bottom leaves can also prevent early blight spores from splashing up from the soil onto leaves.",
+        "symptom": "small dark spots form on older foliage near the ground. Leaf spots are round, brown and can grow up to 1/2 inch in diameter."
+    },
+    {
+        "name": "Tomato Late blight",
+        "effected": "true",
+        "solution": "Spraying fungicides is the most effective way to prevent late blight. For conventional gardeners and commercial producers, protectant fungicides such as chlorothalonil (e.g., Bravo, Echo, Equus, or Daconil) and Mancozeb (Manzate) can be used.",
+        "symptom": "The lesions eventually turn brown and the plant looks like it has been frost-damaged or blasted by a blowtorch."
+    },
+    {
+        "name": "Tomato Leaf Mold",
+        "effected": "true",
+        "solution": "Use drip irrigation and avoid watering foliage. Space plants to provide good air movement between rows and individual plants. Stake, string or prune to increase airflow in and around the plant. Sterilize stakes, ties, trellises, etc. with 10% household bleach or commercial sanitizer.",
+        "symptom": "Leaf spots grow together and turn brown. Leaves wither and die but often remain attached to the plant. Infected blossoms turn black and fall off."
+    },
+    {
+        "name": "Tomato Septoria leaf spot",
+        "effected": "true",
+        "solution": " Fungicides are very effective for control of Septoria leaf spot and applications are often necessary to supplement the control strategies previously outlined. The fungicides chlorothalonil and mancozeb are labeled for homeowner use.",
+        "symptom": "The first symptoms appear as small, water-soaked, circular spots 1/16 to 1/8\" in diameter on the undersides of older leaves. The centers of these spots then turn gray to tan and have a dark-brown margin. The spots are distinctively circular and are often quite numerous."
+    },
+    {
+        "name": "Tomato Spider mites Two spotted spider mite",
+        "effected": "true",
+        "solution": "Preventative releases of the predatory mite, Phytoseiulus persimilis, may suppress TSSM populations in greenhouses and vegetable fields, as they do in strawberry fields. Amblyseius fallicis is a predatory mite that is widely used in greenhouses.",
+        "symptom": "White speckles on tomato leaf from two-spotted spider mite feeding."
+    },
+    {
+        "name": "Tomato Target Spot",
+        "effected": "true",
+        "solution": "The first signs are irregular-shaped spots (less than 1 mm) with a yellow margin. Some of the spots enlarge up to 10 mm and show characteristics rings, hence the name of target spot",
+        "symptom": "Many fungicides are registered to control of target spot on tomatoes. Growers should consult regional disease management guides for recommended products. Products containing chlorothalonil, mancozeb, and copper oxychloride have been shown to provide good control of target spot in research trials."
+    },
+    {
+        "name": "Tomato YellowLeaf Curl Virus",
+        "effected": "true",
+        "solution": "Control the whitefly population to avoid the infection with the virus. Insecticides of the family of the pyrethroids used as soil drenches or spray during the seedling stage can reduce the population of whiteflies.",
+        "symptom": "Infection at seedling stage results in  severe stunting of young leaves and shoots, leading to a somewhat bushy growth of the plant."
+    },
+    {
+        "name": "Tomato mosaic virus",
+        "effected": "true",
+        "solution": "There is no cure for viruses in infected plants. The source of tobacco mosaic can be contaminated seed, but the virus is usually carried on the hands and clothing of those who use tobacco products.",
+        "symptom": "If plants are infected early, they may appear yellow and stunted overall. Mottled light and dark green on leaves."
+    },
+    {
+        "name": "Tomato_healthy",
+        "effected": "false"
+    }
+]
